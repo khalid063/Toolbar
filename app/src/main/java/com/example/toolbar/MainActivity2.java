@@ -17,7 +17,7 @@ public class MainActivity2 extends AppCompatActivity {
 //        Toolbar toolbar = findViewById(R.id.toolbar_id);
 //        setSupportActionBar(toolbar);
         TextView textView = findViewById(R.id.tv_toolbar_headline);
-        textView.setText("Page Two");
+        textView.setText("Page 2");
         //getSupportActionBar().setDisplayShowTitleEnabled(false);
 
     }
